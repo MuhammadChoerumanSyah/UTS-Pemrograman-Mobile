@@ -25,7 +25,10 @@ Berikut adalah langkah-langkah untuk menggunakan aplikasi ini:
 1. Buka project dalam editor Flutter yang telah diinstal di komputer Anda.
 2. Jalankan aplikasi dengan perintah berikut:
    `flutter run`
-3. Aplikasi akan terbuka di simulator atau perangkat yang Anda pilih. Anda dapat memasukkan email dan password untuk melakukan login, atau memilih opsi "Forgot Password?" untuk mengatur ulang kata sandi Anda. Jika Anda belum memiliki akun, Anda dapat memilih opsi "Create an Account" untuk mendaftar ke akun baru.
+3. Aplikasi akan terbuka di simulator atau perangkat yang Anda pilih. Anda dapat memasukkan email dan password untuk melakukan login, atau memilih opsi "Forgot Password?" untuk mengatur ulang kata sandi Anda. Jika Anda belum memiliki akun, Anda dapat memilih opsi "Create Account" untuk mendaftar ke akun baru.
+
+## Link Figma
+https://www.figma.com/file/gPElr2yypobzQHGURTA2Yg/App-Login-Page-UI-(Community)?type=design&node-id=0%3A1&t=UE4aWitvkaRgHGQd-1
 
 ## Output
 
