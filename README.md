@@ -1,4 +1,4 @@
-# UTS Pemrograman Mobile: Halaman Login,Creat Account & Forgot Password dengan Flutter
+# UTS Pemrograman Mobile: Halaman Login,Creat Account & Forget Password dengan Flutter
 
 Selamat datang di repository UTS Matakuliah Pemrograman Mobile! Repository ini berisi implementasi halaman login dengan menggunakan Flutter. Tugas ini diberikan sebagai bagian dari Ujian Tengah Semester (UTS) untuk matakuliah Pemrograman Mobile.
 
@@ -12,7 +12,7 @@ Setelah mempelajari konsep dan teknik dalam pemrograman mobile dengan Flutter, t
 - Input field untuk memasukkan email
 - Input field untuk memasukkan password (yang ditampilkan sebagai teks tersembunyi)
 - Tombol "Login" untuk memulai proses autentikasi
-- Tombol "Forgot Password?" untuk mengatur ulang kata sandi
+- Tombol "Forget Password?" untuk mengatur ulang kata sandi
 - Tombol "Create Account" untuk mendaftar ke akun baru
 - Tombol "Already have an account? Sign In" untuk ke halaman log in
 - Tombol "Reset Password" untuk mengkonfirmasi alamat email yang akan di atur ulang kata sandi nya
@@ -37,6 +37,6 @@ Berikut adalah langkah-langkah untuk menggunakan aplikasi ini:
 
 ![img](assets/img/creataccount.png)
 
-### Forgot Password
+### Forget Password
 
 ![img](assets/img/forgetpassword.png)
